@@ -4,7 +4,7 @@
   I'm <strong>Breno César</strong>, Beginner Web Developer, and future <strong>Internet Computer Technician</strong> & <strong>Agricultural Technician</strong>
 </p>
 <p align="center">
-  I am currently a student at <strong><a href="https://www.cps.sp.gov.br/etecs/etec-laurindo-alves-de-queiroz/" target="_blank">ETEC Laurindo Alves de Queiroz</a></strong>
+  I am currently a student at <a href="https://www.cps.sp.gov.br/etecs/etec-laurindo-alves-de-queiroz/" target="_blank"><strong>ETEC Laurindo Alves de Queiroz</strong></a>
 </p>
 
 <br>
