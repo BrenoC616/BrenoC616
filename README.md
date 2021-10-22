@@ -1,4 +1,4 @@
-### Olá Mundo! 👋
+<h1 align="center">Olá Mundo! 👋</h1>
 
 <!--
 **BrenoC616/BrenoC616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
