@@ -60,6 +60,6 @@
 
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoC616&show_icons=true&theme=dracula&include_all_commits=true&hide=contribs,prs)](brenoc616.github.io) 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoC616&show_icons=true&theme=dracula&include_all_commits=true&hide=contribs,prs)](https://brenoc616.github.io) 
   
 </div>
