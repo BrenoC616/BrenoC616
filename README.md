@@ -60,6 +60,6 @@
 
 <div align="center">
   
-  [![Breno C.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoC616&show_icons=true&theme=dracula&include_all_commits=true&border_color=30363d&bg_color=0d1117&title_color=56a2fa&icon_color=484f58&hide=contribs,prs)](https://brenoc616.github.io) 
+  [![Breno C.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoC616&show_icons=true&theme=dracula&include_all_commits=true&border_color=30363d&bg_color=0d1117&title_color=56a2fa&icon_color=484f58&border_radius=7&hide=contribs,prs)](https://brenoc616.github.io) 
   
 </div>
