@@ -1,19 +1,24 @@
 <h1 align="center">Hello World! 👋</h1>
 
-<p align="center">
-  I'm <strong>Breno César</strong>, Beginner Web Developer, and future <strong>Internet Computer Technician</strong> & <strong>Agricultural Technician</strong>
-</p>
-<p align="center">
-  I am currently a student at <a href="https://www.cps.sp.gov.br/etecs/etec-laurindo-alves-de-queiroz/" target="_blank"><strong>ETEC Laurindo Alves de Queiroz</strong></a>
-</p>
+<div align="center">
+  
+  I'm **Breno César**, Beginner Web Developer, and future **Internet Computer Technician** & **Agricultural Technician**
+  
+</div>
+
+<div align="center">
+  
+  I am currently a student at <a href="https://www.cps.sp.gov.br/etecs/etec-laurindo-alves-de-queiroz/" target="_blank">**ETEC Laurindo Alves de Queiroz**</a>
+  
+</div>
 
 <br>
 
-- 🔭 I'm currently developing my <strong>Term Paper</strong>
-- 🌱 I’m currently learning <strong>ReactJS</strong>
-- 📫 How to reach me: Send-me an <strong>email</strong>, I will respond <strong>quickly</strong>
+- 🔭 I'm currently developing my **Term Paper**
+- 🌱 I’m currently learning **ReactJS**
+- 📫 How to reach me: Send-me an **email**, I will respond **quickly**
 - 😄 Pronouns: He. Him. Himself
-- ⚡ Fun fact: I can't live without <strong>Linux</strong> :penguin:
+- ⚡ Fun fact: I can't live without **Linux** :penguin:
 <!-- 
 🤔 I’m looking for help with ...
 💬 Ask me about ...
@@ -24,19 +29,19 @@
   
   ### In Continuous Learning
   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+  [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://devdocs.io/bash/)
 
   ### Learning Now
   
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+  [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+  [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
 
   ### Everyday Tools and Technologies
   
@@ -60,6 +65,6 @@
 
 <div align="center">
   
-  [![Breno C.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoC616&show_icons=true&theme=dracula&include_all_commits=true&border_color=30363d&bg_color=0d1117&title_color=56a2fa&icon_color=484f58&border_radius=7&hide=contribs,prs)](https://brenoc616.github.io) 
+  [![Breno C.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoC616&show_icons=true&include_all_commits=true&text_color=f8f8f2&border_color=30363d&bg_color=0d1117&title_color=56a2fa&icon_color=484f58&border_radius=7&hide=contribs,prs)](https://brenoc616.github.io) 
   
 </div>
