@@ -15,7 +15,7 @@
 <br>
 
 - 🔭 I'm currently developing my **Term Paper**
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Express.js**
 - 📫 How to reach me: Send-me an **email**, I will respond **quickly**
 - 😄 Pronouns: He. Him. Himself
 - ⚡ Fun fact: I can't live without **Linux** :penguin:
