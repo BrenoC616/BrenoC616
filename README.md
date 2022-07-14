@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  I'm **Breno César**, Web Developer, and future **Internet Computer Technician** & **Agricultural Technician**
+  I'm **Breno César**, Web Developer, **Internet Computer Technician** and future **Agricultural Technician**
   
 </div>
 
